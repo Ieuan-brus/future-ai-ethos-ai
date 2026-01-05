@@ -15,4 +15,4 @@ Streamlit dashboard exploring gender patterns, occupations, and earnings of heal
 - `data/raw/` – original and alternative dataset formats (CSV, XLSX, PX) and exploratory files.
 - `data/archive/` – older working copies.
 
-If you move files or run notebooks in a different environment, update file paths accordingly before wrangling or re-running analyses.
+I did some tidying since creating the notebooks so there could be some errors and you may have update file paths accordingly before wrangling or re-running notebooks.
